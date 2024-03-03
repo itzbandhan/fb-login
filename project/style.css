@@ -54,6 +54,7 @@ input, button{
     width: 396px;
     /* height: 40vh; */
     text-align: center;
+  background-color: #fff;
 }
 .fgt-psw{
     text-align: center;
