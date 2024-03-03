@@ -126,6 +126,10 @@ input, button{
     position: relative;
     left: 12%;
 }
+.bg-eee{
+background-color: #eee;
+
+}
 @media screen and (max-width: 1000px) and (min-width: 840px){
     #logo{
         width: 9rem;
