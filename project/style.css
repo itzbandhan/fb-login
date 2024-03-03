@@ -132,8 +132,10 @@ input, button{
     position: relative;
     left: 12%;
 }
-.bg-eee{
-background-color: #eee;
+.bg-fff{
+
+      background: #fff;
+    padding: 1px;
 
 }
 @media screen and (max-width: 1000px) and (min-width: 840px){
