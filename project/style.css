@@ -110,6 +110,11 @@ input, button{
     width: 15rem;
     
 }
+#log-btn{
+      font-weight: bolder;
+    color: #fff;
+    font-family: arial;
+}
 .empty-div{
     padding: 19px 0;
     display: flex;
