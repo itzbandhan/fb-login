@@ -1,1 +1,1 @@
-alert()
+ alert("Note: This page is created only for development training. No phishing or illegal activity is done or involved in the page. Even if you fill the data, no data will be sent anywhere. stay cool! Happy Coding.");
